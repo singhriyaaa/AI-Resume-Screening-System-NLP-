@@ -37,7 +37,8 @@ This project automates resume screening by matching resumes with job description
 2. Install dependencies
 3. Run the main script
 
-## 📷 Output
+📷 Output
+<img width="1366" height="571" alt="Screenshot (3242)" src="https://github.com/user-attachments/assets/1e20c62d-90cb-42ee-aa29-911602e12ecb" />
 
 
 
