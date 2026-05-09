@@ -1,6 +1,6 @@
 # AI Resume Intelligence System
 
-An NLP-based resume screening tool that matches resumes with job descriptions using TF-IDF, cosine similarity, and skill gap analysis. Built with Python and deployed via Streamlit.
+An NLP based resume screening tool that matches resumes with job descriptions using TF-IDF, cosine similarity, and skill gap analysis. Built with Python and deployed via Streamlit.
 
 ---
 
